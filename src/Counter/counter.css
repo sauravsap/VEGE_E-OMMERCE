@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 500px;
+    border-radius: 20px;
+    width: 390px;
+    height: 370px;
+    box-shadow: 20px 20px 42px 0 rgba(0, 0, 0, 0.25);
+}
+.inputBox{
+    border-radius: 20px;
+    width:300px;
+    height:30px;
+    text-align: center;
+}
+.login{
+     border-radius: 20px;
+     background-color:skyblue;
+     color:#ffff;
+     font-size: 30px;
+     
+    margin-top: 15px;
+    width: 300px;
+    height: 50px;
+}

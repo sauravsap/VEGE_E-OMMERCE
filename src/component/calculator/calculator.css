@@ -1,0 +1,21 @@
+.container{
+    margin-left: 30em;;
+    width: 400px;
+    border: 1px solid black;
+    /* text-align: center; */
+    margin-top: 15em;
+    
+}
+
+input{
+    width:392px;
+    height:60px;
+    font-size: 50px;
+}
+button{
+    font-size: 50px;
+   width: 100px;
+   height:100px;
+   background-color:black;
+   color: white;
+}

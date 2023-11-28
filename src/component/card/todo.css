@@ -1,0 +1,88 @@
+.container {
+    border: 1px solid black;
+    border-radius: 40px;
+    text-align: center;
+    width: 550px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.image {
+    height: 30px;
+    width: 30px;
+}
+
+.input-box {
+    width: 500px;
+    height: 60px;
+    border-radius: 30px;
+
+}
+
+.button {
+    width: 120px;
+    height: 65px;
+    border-radius: 50px;
+    margin-left: -115px;
+    margin-bottom: 30px;
+    background-color: orange;
+}
+
+li {
+    list-style-type: decimal;
+    border-bottom: 1px solid black;
+}
+
+.task-list {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.delete {
+    width: 70px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+    background-color: orange;
+}
+
+body.dark-mode {
+    background-color: black;
+    height: 100%;
+}
+
+.container.dark-mode {
+
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 40px;
+    text-align: center;
+    color: white;
+    width: 550px;
+    margin-left: 400px;
+    margin-top: 50px;
+
+
+}
+
+.input-box.dark-mode {
+    background-color: black;
+    width: 500px;
+    height: 60px;
+    color: white;
+    border-radius: 30px;
+    border: 1px solid white;
+
+}
+
+.button.dark-mode {
+    width: 120px;
+    height: 65px;
+    border-radius: 50px;
+    margin-left: -115px;
+    margin-bottom: 30px;
+    border: 1px solid white;
+    background-color: lightorange;
+}
